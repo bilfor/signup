@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+}
+
+#container {
+  display: flex;
+  height: 100vh;
+}  
+
+#dewey {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+} 
+
+input {
+  border: 2px solid #E5E7EB;
+}
+
+input:focus {
+  border: 2px solid blue;
+}
